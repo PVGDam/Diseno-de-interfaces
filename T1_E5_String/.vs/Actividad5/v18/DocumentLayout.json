@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\",
+  "WorkspaceRootPath": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\T1_E5_String\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A0E1442-D904-4072-9211-90B77022B2FE}|Actividad5\\Actividad5.csproj|c:\\users\\water\\desktop\\todo\\colegio\\dam\\diseno-de-interfaces\\t1_e5_string\\actividad5\\actividad5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A0E1442-D904-4072-9211-90B77022B2FE}|Actividad5\\Actividad5.csproj|c:\\users\\pablovg\\desktop\\dise\u00F1o de interfaces\\t1_e5_string\\actividad5\\actividad5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A0E1442-D904-4072-9211-90B77022B2FE}|Actividad5\\Actividad5.csproj|solutionrelative:actividad5\\actividad5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{605A4795-EAC7-49D7-9BF4-6F1E56FFD977}|Test1\\Test1.csproj|c:\\users\\water\\desktop\\todo\\colegio\\dam\\diseno-de-interfaces\\t1_e5_string\\test1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{605A4795-EAC7-49D7-9BF4-6F1E56FFD977}|Test1\\Test1.csproj|c:\\users\\pablovg\\desktop\\dise\u00F1o de interfaces\\t1_e5_string\\test1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{605A4795-EAC7-49D7-9BF4-6F1E56FFD977}|Test1\\Test1.csproj|solutionrelative:test1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A0E1442-D904-4072-9211-90B77022B2FE}|Actividad5\\Actividad5.csproj|c:\\users\\water\\desktop\\todo\\colegio\\dam\\diseno-de-interfaces\\t1_e5_string\\actividad5\\actividad5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2A0E1442-D904-4072-9211-90B77022B2FE}|Actividad5\\Actividad5.csproj|c:\\users\\pablovg\\desktop\\dise\u00F1o de interfaces\\t1_e5_string\\actividad5\\actividad5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2A0E1442-D904-4072-9211-90B77022B2FE}|Actividad5\\Actividad5.csproj|solutionrelative:actividad5\\actividad5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{605A4795-EAC7-49D7-9BF4-6F1E56FFD977}|Test1\\Test1.csproj|c:\\users\\water\\desktop\\todo\\colegio\\dam\\diseno-de-interfaces\\t1_e5_string\\test1\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{605A4795-EAC7-49D7-9BF4-6F1E56FFD977}|Test1\\Test1.csproj|c:\\users\\pablovg\\desktop\\dise\u00F1o de interfaces\\t1_e5_string\\test1\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{605A4795-EAC7-49D7-9BF4-6F1E56FFD977}|Test1\\Test1.csproj|solutionrelative:test1\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -32,50 +32,47 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Test1\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\T1_E5_String\\Test1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Test1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Test1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\T1_E5_String\\Test1\\UnitTest1.cs",
               "RelativeToolTip": "Test1\\UnitTest1.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAYwGEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T15:42:20.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T15:42:20.816Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Test1.csproj",
-              "DocumentMoniker": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Test1\\Test1.csproj",
+              "DocumentMoniker": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\T1_E5_String\\Test1\\Test1.csproj",
               "RelativeDocumentMoniker": "Test1\\Test1.csproj",
-              "ToolTip": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Test1\\Test1.csproj",
+              "ToolTip": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\T1_E5_String\\Test1\\Test1.csproj",
               "RelativeToolTip": "Test1\\Test1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-21T15:42:21.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T15:42:21.111Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Actividad5.csproj",
-              "DocumentMoniker": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Actividad5\\Actividad5.csproj",
+              "DocumentMoniker": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\T1_E5_String\\Actividad5\\Actividad5.csproj",
               "RelativeDocumentMoniker": "Actividad5\\Actividad5.csproj",
-              "ToolTip": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Actividad5\\Actividad5.csproj",
+              "ToolTip": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\T1_E5_String\\Actividad5\\Actividad5.csproj",
               "RelativeToolTip": "Actividad5\\Actividad5.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-21T15:42:21.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T15:42:21.347Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Actividad5.cs",
-              "DocumentMoniker": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Actividad5\\Actividad5.cs",
+              "DocumentMoniker": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\T1_E5_String\\Actividad5\\Actividad5.cs",
               "RelativeDocumentMoniker": "Actividad5\\Actividad5.cs",
-              "ToolTip": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Actividad5\\Actividad5.cs",
+              "ToolTip": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\T1_E5_String\\Actividad5\\Actividad5.cs",
               "RelativeToolTip": "Actividad5\\Actividad5.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAiwJMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T15:42:21.362Z",
               "EditorCaption": ""

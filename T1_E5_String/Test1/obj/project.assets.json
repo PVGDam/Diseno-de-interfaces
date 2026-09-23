@@ -1283,23 +1283,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\water\\.nuget\\packages\\": {},
+    "C:\\Users\\PabloVG\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Test1\\Test1.csproj",
+      "projectUniqueName": "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\T1_E5_String\\Test1\\Test1.csproj",
       "projectName": "Test1",
-      "projectPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Test1\\Test1.csproj",
-      "packagesPath": "C:\\Users\\water\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Test1\\obj\\",
+      "projectPath": "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\T1_E5_String\\Test1\\Test1.csproj",
+      "packagesPath": "C:\\Users\\PabloVG\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\T1_E5_String\\Test1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\water\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PabloVG\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1316,8 +1316,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Actividad5\\Actividad5.csproj": {
-              "projectPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\T1_E5_String\\Actividad5\\Actividad5.csproj"
+            "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\T1_E5_String\\Actividad5\\Actividad5.csproj": {
+              "projectPath": "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\T1_E5_String\\Actividad5\\Actividad5.csproj"
             }
           }
         }

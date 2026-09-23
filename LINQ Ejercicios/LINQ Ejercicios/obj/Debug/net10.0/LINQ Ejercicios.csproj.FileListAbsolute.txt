@@ -1,0 +1,31 @@
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\bin\Debug\net10.0\LINQ Ejercicios.exe
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\bin\Debug\net10.0\LINQ Ejercicios.deps.json
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\bin\Debug\net10.0\LINQ Ejercicios.runtimeconfig.json
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\bin\Debug\net10.0\LINQ Ejercicios.dll
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\bin\Debug\net10.0\LINQ Ejercicios.pdb
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.AssemblyInfoInputs.cache
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.AssemblyInfo.cs
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.dll
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\refint\LINQ Ejercicios.dll
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.pdb
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.genruntimeconfig.cache
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\ref\LINQ Ejercicios.dll
+C:\Users\PabloVG\source\repos\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Eje.9C4161AD.Up2Date
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\bin\Debug\net10.0\LINQ Ejercicios.exe
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\bin\Debug\net10.0\LINQ Ejercicios.deps.json
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\bin\Debug\net10.0\LINQ Ejercicios.runtimeconfig.json
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\bin\Debug\net10.0\LINQ Ejercicios.dll
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\bin\Debug\net10.0\LINQ Ejercicios.pdb
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.AssemblyInfoInputs.cache
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.AssemblyInfo.cs
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.sourcelink.json
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.dll
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\refint\LINQ Ejercicios.dll
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.pdb
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Ejercicios.genruntimeconfig.cache
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\ref\LINQ Ejercicios.dll
+C:\Users\PabloVG\Desktop\Diseño de interfaces\LINQ Ejercicios\LINQ Ejercicios\obj\Debug\net10.0\LINQ Eje.9C4161AD.Up2Date
