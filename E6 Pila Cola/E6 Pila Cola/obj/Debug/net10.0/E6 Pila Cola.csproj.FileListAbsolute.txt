@@ -1,0 +1,16 @@
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\bin\Debug\net10.0\E6 Pila Cola.exe
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\bin\Debug\net10.0\E6 Pila Cola.deps.json
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\bin\Debug\net10.0\E6 Pila Cola.runtimeconfig.json
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\bin\Debug\net10.0\E6 Pila Cola.dll
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\bin\Debug\net10.0\E6 Pila Cola.pdb
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\obj\Debug\net10.0\E6 Pila Cola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\obj\Debug\net10.0\E6 Pila Cola.AssemblyInfoInputs.cache
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\obj\Debug\net10.0\E6 Pila Cola.AssemblyInfo.cs
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\obj\Debug\net10.0\E6 Pila Cola.csproj.CoreCompileInputs.cache
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\obj\Debug\net10.0\E6 Pila Cola.sourcelink.json
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\obj\Debug\net10.0\E6 Pila Cola.dll
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\obj\Debug\net10.0\refint\E6 Pila Cola.dll
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\obj\Debug\net10.0\E6 Pila Cola.pdb
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\obj\Debug\net10.0\E6 Pila Cola.genruntimeconfig.cache
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\obj\Debug\net10.0\ref\E6 Pila Cola.dll
+C:\Users\water\Desktop\Todo\Colegio\DAM\Diseno-de-interfaces\E6 Pila Cola\E6 Pila Cola\obj\Debug\net10.0\E6 Pila .EAA44D1D.Up2Date
