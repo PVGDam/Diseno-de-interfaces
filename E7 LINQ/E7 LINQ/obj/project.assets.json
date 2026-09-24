@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\LINQ Ejercicios\\LINQ Ejercicios\\LINQ Ejercicios.csproj",
-      "projectName": "LINQ Ejercicios",
-      "projectPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\LINQ Ejercicios\\LINQ Ejercicios\\LINQ Ejercicios.csproj",
+      "projectUniqueName": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\E7 LINQ\\E7 LINQ\\E7 LINQ.csproj",
+      "projectName": "E7 LINQ",
+      "projectPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\E7 LINQ\\E7 LINQ\\E7 LINQ.csproj",
       "packagesPath": "C:\\Users\\water\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\LINQ Ejercicios\\LINQ Ejercicios\\obj\\",
+      "outputPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\E7 LINQ\\E7 LINQ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
