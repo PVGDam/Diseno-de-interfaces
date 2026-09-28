@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\POO\\POO\\POO\\POO.csproj": {}
+    "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\POO\\POO\\POO\\POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\POO\\POO\\POO\\POO.csproj": {
+    "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\POO\\POO\\POO\\POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\POO\\POO\\POO\\POO.csproj",
+        "projectUniqueName": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\POO\\POO\\POO\\POO.csproj",
         "projectName": "POO",
-        "projectPath": "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\POO\\POO\\POO\\POO.csproj",
-        "packagesPath": "C:\\Users\\PabloVG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\POO\\POO\\POO\\obj\\",
+        "projectPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\POO\\POO\\POO\\POO.csproj",
+        "packagesPath": "C:\\Users\\water\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\POO\\POO\\POO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PabloVG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\water\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
