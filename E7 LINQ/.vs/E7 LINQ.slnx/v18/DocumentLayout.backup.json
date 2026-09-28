@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\E7 LINQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E87F1F82-85F3-4D3C-B729-9F3855542FF0}|E7 LINQ\\E7 LINQ.csproj|c:\\users\\water\\desktop\\todo\\colegio\\dam\\diseno-de-interfaces\\e7 linq\\e7 linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E87F1F82-85F3-4D3C-B729-9F3855542FF0}|E7 LINQ\\E7 LINQ.csproj|solutionrelative:e7 linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C277C991-40C0-EEB7-41BB-5E95258F6547}|E7 LINQ\\E7 LINQ.csproj|c:\\users\\water\\desktop\\todo\\colegio\\dam\\diseno-de-interfaces\\e7 linq\\e7 linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C277C991-40C0-EEB7-41BB-5E95258F6547}|E7 LINQ\\E7 LINQ.csproj|solutionrelative:e7 linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E87F1F82-85F3-4D3C-B729-9F3855542FF0}|E7 LINQ\\E7 LINQ.csproj|c:\\users\\water\\desktop\\todo\\colegio\\dam\\diseno-de-interfaces\\e7 linq\\e7 linq\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E87F1F82-85F3-4D3C-B729-9F3855542FF0}|E7 LINQ\\E7 LINQ.csproj|solutionrelative:e7 linq\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C277C991-40C0-EEB7-41BB-5E95258F6547}|E7 LINQ\\E7 LINQ.csproj|c:\\users\\water\\desktop\\todo\\colegio\\dam\\diseno-de-interfaces\\e7 linq\\e7 linq\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C277C991-40C0-EEB7-41BB-5E95258F6547}|E7 LINQ\\E7 LINQ.csproj|solutionrelative:e7 linq\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E87F1F82-85F3-4D3C-B729-9F3855542FF0}|E7 LINQ\\E7 LINQ.csproj|c:\\users\\water\\desktop\\todo\\colegio\\dam\\diseno-de-interfaces\\e7 linq\\e7 linq\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E87F1F82-85F3-4D3C-B729-9F3855542FF0}|E7 LINQ\\E7 LINQ.csproj|solutionrelative:e7 linq\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C277C991-40C0-EEB7-41BB-5E95258F6547}|E7 LINQ\\E7 LINQ.csproj|c:\\users\\water\\desktop\\todo\\colegio\\dam\\diseno-de-interfaces\\e7 linq\\e7 linq\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C277C991-40C0-EEB7-41BB-5E95258F6547}|E7 LINQ\\E7 LINQ.csproj|solutionrelative:e7 linq\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Autor.cs",
               "DocumentMoniker": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\E7 LINQ\\E7 LINQ\\Autor.cs",
               "RelativeDocumentMoniker": "E7 LINQ\\Autor.cs",
@@ -38,12 +34,11 @@
               "RelativeToolTip": "E7 LINQ\\Autor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T11:04:42.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-24T11:04:42.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\E7 LINQ\\E7 LINQ\\Libro.cs",
               "RelativeDocumentMoniker": "E7 LINQ\\Libro.cs",
@@ -51,8 +46,7 @@
               "RelativeToolTip": "E7 LINQ\\Libro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T11:04:00.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-24T11:04:00.815Z"
             },
             {
               "$type": "Document",

@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\water\\.nuget\\packages\\": {},
+    "C:\\Users\\PabloVG\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\E7 LINQ\\E7 LINQ\\E7 LINQ.csproj",
+      "projectUniqueName": "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\E7 LINQ\\E7 LINQ\\E7 LINQ.csproj",
       "projectName": "E7 LINQ",
-      "projectPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\E7 LINQ\\E7 LINQ\\E7 LINQ.csproj",
-      "packagesPath": "C:\\Users\\water\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\E7 LINQ\\E7 LINQ\\obj\\",
+      "projectPath": "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\E7 LINQ\\E7 LINQ\\E7 LINQ.csproj",
+      "packagesPath": "C:\\Users\\PabloVG\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PabloVG\\Desktop\\Diseño de interfaces\\E7 LINQ\\E7 LINQ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\water\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PabloVG\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -1,0 +1,16 @@
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\bin\Debug\net10.0\POO.exe
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\bin\Debug\net10.0\POO.deps.json
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\bin\Debug\net10.0\POO.runtimeconfig.json
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\bin\Debug\net10.0\POO.dll
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\bin\Debug\net10.0\POO.pdb
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\obj\Debug\net10.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\obj\Debug\net10.0\POO.AssemblyInfoInputs.cache
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\obj\Debug\net10.0\POO.AssemblyInfo.cs
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\obj\Debug\net10.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\obj\Debug\net10.0\POO.sourcelink.json
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\obj\Debug\net10.0\POO.dll
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\obj\Debug\net10.0\refint\POO.dll
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\obj\Debug\net10.0\POO.pdb
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\obj\Debug\net10.0\POO.genruntimeconfig.cache
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\obj\Debug\net10.0\ref\POO.dll
+C:\Users\PabloVG\Desktop\Diseño de interfaces\POO\POO\POO\obj\Debug\net10.0\POO.csproj.Up2Date

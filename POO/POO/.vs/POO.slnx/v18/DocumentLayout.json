@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\POO\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{698662CF-B4CB-4F50-A5B2-6D69DE92F1C1}|POO\\POO.csproj|c:\\users\\pablovg\\desktop\\dise\u00F1o de interfaces\\poo\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698662CF-B4CB-4F50-A5B2-6D69DE92F1C1}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698662CF-B4CB-4F50-A5B2-6D69DE92F1C1}|POO\\POO.csproj|c:\\users\\pablovg\\desktop\\dise\u00F1o de interfaces\\poo\\poo\\poo\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698662CF-B4CB-4F50-A5B2-6D69DE92F1C1}|POO\\POO.csproj|solutionrelative:poo\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\POO\\POO\\POO\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "POO\\Ejercicio2.cs",
+              "ToolTip": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\POO\\POO\\POO\\Ejercicio2.cs",
+              "RelativeToolTip": "POO\\Ejercicio2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T08:45:56.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\POO\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\POO\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T08:13:11.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

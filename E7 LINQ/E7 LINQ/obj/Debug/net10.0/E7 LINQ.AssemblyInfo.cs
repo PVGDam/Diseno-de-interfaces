@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("E7 LINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0998832ffb5f1bd11f823875203f952b300d5293")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0c8e255c75a958460620eec0031d03ded3aef34")]
 [assembly: System.Reflection.AssemblyProductAttribute("E7 LINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("E7 LINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
