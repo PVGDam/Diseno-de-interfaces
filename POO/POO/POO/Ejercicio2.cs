@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Text;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
 
 namespace POO
 {
@@ -9,7 +13,7 @@ namespace POO
     {
 
         public class Electrodomestico {
-            private int Precio_base { get; set; }
+            public int Precio_base { get; private set; }
             private string Color { get; set; }
             private char Consumo { get; set; }
             private int Peso { get; set; }
@@ -18,6 +22,12 @@ namespace POO
             private const string COLOR_DEFECTO = "BLANCO";
             private const char CONSUMO_DEFECTO = 'F';
             private const int PESO_DEFECTO = 5;
+
+            // Forma correcta
+            //private int Precio_base { get; set; } = PRECIO_BASE_DEFECTO;
+            //private string Color { get; set; } = COLOR_DEFECTO
+            //private char Consumo { get; set; } = CONSUMO_DEFECTO
+            //private int Peso { get; set; } = PESO_DEFECTO
 
             public Electrodomestico()
             {
@@ -62,7 +72,7 @@ namespace POO
                 else return COLOR_DEFECTO;
             }
 
-            public int PrecioFinal() {
+            public virtual int PrecioFinal() {
                 var precioPeso = 10;
                 Dictionary<char, int> consumos = new Dictionary<char, int> {
                     { 'A', 100 },
@@ -112,7 +122,7 @@ namespace POO
                 Carga = carga;
             }
 
-            public new int PrecioFinal() {
+            public override int PrecioFinal() {
                 if (Carga > 30) {
                     return base.PrecioFinal() + 50;
                 } return base.PrecioFinal();
@@ -144,7 +154,7 @@ namespace POO
                 SintonizadoTDT = sintonizador;
             }
 
-            public new int PrecioFinal() {
+            public override int PrecioFinal() {
                 var precioActual = base.PrecioFinal();
 
                 if (Resolucion > 40) {
@@ -156,26 +166,6 @@ namespace POO
                 return precioActual;
             }
 
-
-        }
-
-        public static void Main()
-        {
-            Electrodomestico[] electrodomesticos = new Electrodomestico[10];
-
-            electrodomesticos[0] = new Electrodomestico();
-            electrodomesticos[1] = new Electrodomestico(200, 15);
-            electrodomesticos[2] = new Electrodomestico(300, "NEGRO", 'A', 25);
-
-            electrodomesticos[3] = new Lavadora();
-            electrodomesticos[4] = new Lavadora(400, 35);
-            electrodomesticos[5] = new Lavadora(500, "ROJO", 'B', 45, 40);
-
-            electrodomesticos[6] = new Television();
-            electrodomesticos[7] = new Television(600, 20);
-            electrodomesticos[8] = new Television(50, true, 700, 30, "AZUL", 'C');
-
-            electrodomesticos[9] = new Electrodomestico(150, "GRIS", 'F', 10);
 
         }
 

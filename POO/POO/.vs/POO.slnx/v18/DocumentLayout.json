@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\POO\\POO\\",
+  "WorkspaceRootPath": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\POO\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\water\\desktop\\todo\\colegio\\dam\\diseno-de-interfaces\\poo\\poo\\poo\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\pablovg\\desktop\\dise\u00F1o de interfaces\\poo\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\water\\desktop\\todo\\colegio\\dam\\diseno-de-interfaces\\poo\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\pablovg\\desktop\\dise\u00F1o de interfaces\\poo\\poo\\poo\\ejercicio 3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\ejercicio 3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\pablovg\\desktop\\dise\u00F1o de interfaces\\poo\\poo\\poo\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Ejercicio 3.cs",
+              "DocumentMoniker": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\POO\\POO\\POO\\Ejercicio 3.cs",
+              "RelativeDocumentMoniker": "POO\\Ejercicio 3.cs",
+              "ToolTip": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\POO\\POO\\POO\\Ejercicio 3.cs",
+              "RelativeToolTip": "POO\\Ejercicio 3.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwCQAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T10:10:26.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Ejercicio2.cs",
-              "DocumentMoniker": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\POO\\POO\\POO\\Ejercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\POO\\POO\\POO\\Ejercicio2.cs",
               "RelativeDocumentMoniker": "POO\\Ejercicio2.cs",
-              "ToolTip": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\POO\\POO\\POO\\Ejercicio2.cs",
+              "ToolTip": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\POO\\POO\\POO\\Ejercicio2.cs",
               "RelativeToolTip": "POO\\Ejercicio2.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAxwJYAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAKwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T08:45:56.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\POO\\POO\\POO\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\POO\\POO\\POO\\Program.cs",
               "RelativeDocumentMoniker": "POO\\Program.cs",
-              "ToolTip": "C:\\Users\\water\\Desktop\\Todo\\Colegio\\DAM\\Diseno-de-interfaces\\POO\\POO\\POO\\Program.cs",
+              "ToolTip": "C:\\Users\\PabloVG\\Desktop\\Dise\u00F1o de interfaces\\POO\\POO\\POO\\Program.cs",
               "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T08:13:11.318Z",
               "EditorCaption": ""
