@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAM\\Diseno-de-interfaces\\T1_E9_Expresiones regulares\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0656861F-0044-4D63-9B9D-10EDC94CCE82}|Actividad09\\Actividad9.csproj|d:\\dam\\diseno-de-interfaces\\t1_e9_expresiones regulares\\t1_e9_expresiones regulares\\actividad9\\actividad09\\actividad09\\actividad9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0656861F-0044-4D63-9B9D-10EDC94CCE82}|Actividad09\\Actividad9.csproj|solutionrelative:actividad09\\actividad9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ABAEDD-8B15-459E-B83A-43F70821305E}|Test1\\Test1.csproj|d:\\dam\\diseno-de-interfaces\\t1_e9_expresiones regulares\\t1_e9_expresiones regulares\\actividad9\\actividad09\\test1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ABAEDD-8B15-459E-B83A-43F70821305E}|Test1\\Test1.csproj|solutionrelative:test1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0656861F-0044-4D63-9B9D-10EDC94CCE82}|Actividad09\\Actividad9.csproj|d:\\dam\\diseno-de-interfaces\\t1_e9_expresiones regulares\\t1_e9_expresiones regulares\\actividad9\\actividad09\\actividad09\\actividad9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0656861F-0044-4D63-9B9D-10EDC94CCE82}|Actividad09\\Actividad9.csproj|solutionrelative:actividad09\\actividad9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ABAEDD-8B15-459E-B83A-43F70821305E}|Test1\\Test1.csproj|d:\\dam\\diseno-de-interfaces\\t1_e9_expresiones regulares\\t1_e9_expresiones regulares\\actividad9\\actividad09\\test1\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4ABAEDD-8B15-459E-B83A-43F70821305E}|Test1\\Test1.csproj|solutionrelative:test1\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\DAM\\Diseno-de-interfaces\\T1_E9_Expresiones regulares\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Test1\\Test1.cs",
+              "RelativeDocumentMoniker": "Test1\\Test1.cs",
+              "ToolTip": "D:\\DAM\\Diseno-de-interfaces\\T1_E9_Expresiones regulares\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Test1\\Test1.cs",
+              "RelativeToolTip": "Test1\\Test1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAlwG0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:05:13.829Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actividad9.cs",
+              "DocumentMoniker": "D:\\DAM\\Diseno-de-interfaces\\T1_E9_Expresiones regulares\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Actividad09\\Actividad9.cs",
+              "RelativeDocumentMoniker": "Actividad09\\Actividad9.cs",
+              "ToolTip": "D:\\DAM\\Diseno-de-interfaces\\T1_E9_Expresiones regulares\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Actividad09\\Actividad9.cs",
+              "RelativeToolTip": "Actividad09\\Actividad9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:01:56.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test1.csproj",
+              "DocumentMoniker": "D:\\DAM\\Diseno-de-interfaces\\T1_E9_Expresiones regulares\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Test1\\Test1.csproj",
+              "RelativeDocumentMoniker": "Test1\\Test1.csproj",
+              "ToolTip": "D:\\DAM\\Diseno-de-interfaces\\T1_E9_Expresiones regulares\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Test1\\Test1.csproj",
+              "RelativeToolTip": "Test1\\Test1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-30T12:01:56.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Actividad9.csproj",
+              "DocumentMoniker": "D:\\DAM\\Diseno-de-interfaces\\T1_E9_Expresiones regulares\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Actividad09\\Actividad9.csproj",
+              "RelativeDocumentMoniker": "Actividad09\\Actividad9.csproj",
+              "ToolTip": "D:\\DAM\\Diseno-de-interfaces\\T1_E9_Expresiones regulares\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Actividad09\\Actividad9.csproj",
+              "RelativeToolTip": "Actividad09\\Actividad9.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-30T12:01:57.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Silvia\\Downloads\\drive-download-20250929T114228Z-1-001\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0656861F-0044-4D63-9B9D-10EDC94CCE82}|Actividad09\\Actividad9.csproj|c:\\users\\silvia\\downloads\\drive-download-20250929t114228z-1-001\\t1_e9_expresiones regulares\\actividad9\\actividad09\\actividad09\\actividad9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0656861F-0044-4D63-9B9D-10EDC94CCE82}|Actividad09\\Actividad9.csproj|solutionrelative:actividad09\\actividad9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ABAEDD-8B15-459E-B83A-43F70821305E}|Test1\\Test1.csproj|c:\\users\\silvia\\downloads\\drive-download-20250929t114228z-1-001\\t1_e9_expresiones regulares\\actividad9\\actividad09\\test1\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4ABAEDD-8B15-459E-B83A-43F70821305E}|Test1\\Test1.csproj|solutionrelative:test1\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0656861F-0044-4D63-9B9D-10EDC94CCE82}|Actividad09\\Actividad9.csproj|c:\\users\\silvia\\downloads\\drive-download-20250929t114228z-1-001\\t1_e9_expresiones regulares\\actividad9\\actividad09\\actividad09\\actividad9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0656861F-0044-4D63-9B9D-10EDC94CCE82}|Actividad09\\Actividad9.csproj|solutionrelative:actividad09\\actividad9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actividad9.cs",
+              "DocumentMoniker": "C:\\Users\\Silvia\\Downloads\\drive-download-20250929T114228Z-1-001\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Actividad09\\Actividad9.cs",
+              "RelativeDocumentMoniker": "Actividad09\\Actividad9.cs",
+              "ToolTip": "C:\\Users\\Silvia\\Downloads\\drive-download-20250929T114228Z-1-001\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Actividad09\\Actividad9.cs",
+              "RelativeToolTip": "Actividad09\\Actividad9.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:46:19.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1",
+              "DocumentMoniker": "C:\\Users\\Silvia\\Downloads\\drive-download-20250929T114228Z-1-001\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Test1\\Test1.csproj",
+              "RelativeDocumentMoniker": "Test1\\Test1.csproj",
+              "ToolTip": "C:\\Users\\Silvia\\Downloads\\drive-download-20250929T114228Z-1-001\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Test1\\Test1.csproj",
+              "RelativeToolTip": "Test1\\Test1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T11:45:58.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Actividad9",
+              "DocumentMoniker": "C:\\Users\\Silvia\\Downloads\\drive-download-20250929T114228Z-1-001\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Actividad09\\Actividad9.csproj",
+              "RelativeDocumentMoniker": "Actividad09\\Actividad9.csproj",
+              "ToolTip": "C:\\Users\\Silvia\\Downloads\\drive-download-20250929T114228Z-1-001\\T1_E9_Expresiones regulares\\Actividad9\\Actividad09\\Actividad09\\Actividad9.csproj",
+              "RelativeToolTip": "Actividad09\\Actividad9.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T11:45:53.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
