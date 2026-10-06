@@ -1,0 +1,32 @@
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\bin\Debug\net10.0\Actividad9.exe
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\bin\Debug\net10.0\Actividad9.deps.json
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\bin\Debug\net10.0\Actividad9.runtimeconfig.json
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\bin\Debug\net10.0\Actividad9.dll
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\bin\Debug\net10.0\Actividad9.pdb
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.AssemblyInfoInputs.cache
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.AssemblyInfo.cs
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.csproj.CoreCompileInputs.cache
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.sourcelink.json
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.dll
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\obj\Debug\net10.0\refint\Actividad9.dll
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.pdb
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.genruntimeconfig.cache
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\obj\Debug\net10.0\ref\Actividad9.dll
+D:\DAM\Diseno-de-interfaces\T1_E9_Expresiones regulares\T1_E9_Expresiones regulares\Actividad9\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.csproj.Up2Date
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\bin\Debug\net10.0\Actividad9.exe
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\bin\Debug\net10.0\Actividad9.deps.json
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\bin\Debug\net10.0\Actividad9.runtimeconfig.json
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\bin\Debug\net10.0\Actividad9.dll
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\bin\Debug\net10.0\Actividad9.pdb
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.AssemblyInfoInputs.cache
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.AssemblyInfo.cs
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.csproj.CoreCompileInputs.cache
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.sourcelink.json
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.dll
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\obj\Debug\net10.0\refint\Actividad9.dll
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.pdb
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.genruntimeconfig.cache
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\obj\Debug\net10.0\ref\Actividad9.dll
+C:\Users\PabloVG\Desktop\TODO\Diseño de interfaces\T1_E9_Expresiones regulares\Actividad09\Actividad09\obj\Debug\net10.0\Actividad9.csproj.Up2Date
